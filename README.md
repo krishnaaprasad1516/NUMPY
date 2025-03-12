@@ -16,18 +16,18 @@ Numpy is a library or package which handles n-dimension array
  # extensions of NUMPY
  some best extensions of NUMPY as follows
 github copilot 
-		python debugger
-		arepl for python 
-		autodocstring 
-		coderunner
-		intellicode
-		jupyter
-		llm-vscode
-		markdownlint
-		officeviewer 
-		pdfviwer
-		python
-		pylance
-		python image preview
-		python extension pack
+		python debugger,
+		arepl for python,
+		autodocstring, 
+		coderunner,
+		intellicode,
+		jupyter,
+		llm-vscode,
+		markdownlint,
+		officeviewer,
+		pdfviwer,
+		python,
+		pylance,
+		python image preview,
+		python extension pack.
 
